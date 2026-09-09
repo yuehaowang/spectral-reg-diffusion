@@ -1,0 +1,17 @@
+.DS_Store
+
+output/
+output_*/
+data/
+cache/
+slurm/
+
+__pycache__/
+*.pyc
+.vscode
+
+*.pb
+*.npy
+*.npz
+*.mp4
+tests/

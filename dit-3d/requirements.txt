@@ -1,0 +1,11 @@
+# Built and tested with python 3.9, CUDA 12.4.
+torch==2.4.1
+torchvision==0.19.1
+torchaudio==2.4.1
+timm
+numpy
+matplotlib
+ninja
+open3d
+trimesh
+tensorboardX

@@ -1,0 +1,9 @@
+torch>=2.1
+torchvision
+accelerate>=0.26
+numpy
+scipy
+tqdm
+imageio
+tensorboard
+pillow
